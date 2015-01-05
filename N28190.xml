@@ -109,8 +109,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:037577_0000_100EDEF0ADE052E0"/>
-            <pb facs="tcp:037577_0001_100EDEF64771FD98" rendition="simple:additions"/>
+            <pb facs="unknown:037577_0000_100EDEF0ADE052E0"/>
+            <pb facs="unknown:037577_0001_100EDEF64771FD98"
+                rendition="simple:additions"/>
             <p>A SERMON, ON THE TRUE OBJECT AND NATURE OF Christian Worship; Delivered at the Opening of the NEW JERUSALEM TEMPLE, IN THE CITY OF BALTIMORE. On Sunday, the 5th of January, 1800. BY The Rev. JOHN HARGROVE.</p>
             <q>
                <p>"But this I confeſs to thee, that after the way which they call hereſy, worſhip I the God of my fathers, believing all things which are written in the law and in the prophets."</p>
@@ -121,7 +122,8 @@
       </front>
       <body>
          <div type="letter">
-            <pb facs="tcp:037577_0002_100EDEF26DF9E1D8" rendition="simple:additions"/>
+            <pb facs="unknown:037577_0002_100EDEF26DF9E1D8"
+                rendition="simple:additions"/>
             <head>TO THE MEMBERS Of the New Jeruſalem Church IN THE CITY OF BALTIMORE.</head>
             <opener>
                <salute>Dear Brethren,</salute>
@@ -147,7 +149,7 @@
                </gap>ruths; but, as a ſmall thank-offering, as grate<g ref="char:EOLhyphen"/>fully paid, as it is juſtly due.</p>
             <p>The various and contending ſects of former Chriſtians have repeatedly and very voluminouſly ſtated and explained <hi>their</hi> peculiar creeds before the public; and contraſted them with others which they deemed erroneous, in order, doubtleſs, "<hi>to give every man a reaſon of the hope that was in them:</hi>"—I have now done no more, nay not ſo much; as the following diſcourſe is, but a very brief and curſory, (and conſequently a very imper<g ref="char:EOLhyphen"/>fect) view of our peculiar faith, reſpecting the ob<g ref="char:EOLhyphen"/>ject of our worſhip.</p>
             <p>
-               <pb facs="tcp:037577_0003_100EDEF46E5E6450"/>Nothing is more remote from my wiſhes th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb facs="unknown:037577_0003_100EDEF46E5E6450"/>Nothing is more remote from my wiſhes th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> religious controverſy, for, "<hi>where contention <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -181,7 +183,7 @@
             </closer>
          </div>
          <div type="sermon">
-            <pb n="5" facs="tcp:037577_0003_100EDEF46E5E6450"/>
+            <pb n="5" facs="unknown:037577_0003_100EDEF46E5E6450"/>
             <head>A SERMON.</head>
             <epigraph>
                <q>
@@ -197,7 +199,7 @@
             </p>
             <p>The brief but comprehenſive precept which forms the baſis of my intended diſcourſe, manifeſtly in<g ref="char:EOLhyphen"/>volves the deſign and uſe of this, and every other religious temple in the world; and is confeſſedly a ſubject of primary importance, and indiſcriminate application to every rational being in heaven and earth.</p>
             <p>The gloomy atheiſt indeed—the ſilent language of whoſe heart, or public language of whoſe lectures, is "<hi>There is no God,</hi>"—may attempt to deny its ſacred and awful importance; but, as ſuch learned fools have ſunk themſelves on the ſcale of exiſtence below the degree of rationality; and as the divine providence has never ſuffered ſuch impious monſters to "<hi>increase and multiply</hi>" on the earth, and pol<g ref="char:EOLhyphen"/>lute ſociety with their horrid blaſphemy; let us hope
-<pb n="6" facs="tcp:037577_0004_100EDEF7D89096E8"/>
+<pb n="6" facs="unknown:037577_0004_100EDEF7D89096E8"/>
 that but few more of them will ever more diſgrace the human nature, by appearing amongſt us in a hu<g ref="char:EOLhyphen"/>man form.</p>
             <p>I need not inform my reſpected hearers, who are converſant with their bibles, that the emphatical text which I have now choſen to enlarge upon, was ad<g ref="char:EOLhyphen"/>dreſſed to the beloved St. John, by a glorious and dignified angel of heaven; who though once a man on earth, now ſhone with ſuch reſplendent beatitude, that the inſpired evangeliſt himſelf miſtook him for his adorable maſter, and fell at his feet to worſhip him.</p>
             <p>But as this act, however pure the motive, or zea<g ref="char:EOLhyphen"/>lous the performance, was directed towards an im<g ref="char:EOLhyphen"/>proper <hi>object,</hi> the faithful delegate of heaven imme<g ref="char:EOLhyphen"/>diately entered his ſolemn proteſt againſt it, by a "<hi>See thou do it not;</hi>" whereby we are plainly in<g ref="char:EOLhyphen"/>formed, that all religious worſhip which is grounded in ſuperſtition, or idolatry, cannot be <hi>truly</hi> accept<g ref="char:EOLhyphen"/>able to God, however ſincere or holy the worſhiper may be.</p>
@@ -207,7 +209,7 @@ that but few more of them will ever more diſgrace the human nature, by appearin
                </gap>y all the various and contend<g ref="char:EOLhyphen"/>ing ſects of Chriſtians now in the world.</p>
             <p>This brief remark may aſſiſt to perceive, that theſe myſterious but divine revelations, were more pecu<g ref="char:EOLhyphen"/>liarly deſigned for the inſtruction of future ages, than for thoſe already paſt; while at the ſame time it clearly evinces, that the rejection of any particular book, or doctrine, (even by the generality of the Chriſtian church, and that for ages,) is no infallible proof againſt its ſacred and divine athuority.</p>
             <p>Indeed the very contrary is a truth too notorious
-<pb n="7" facs="tcp:037577_0004_100EDEF7D89096E8"/>
+<pb n="7" facs="unknown:037577_0004_100EDEF7D89096E8"/>
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>o be denied; that whenever the "<hi>Sun of Righteous<g ref="char:EOLhyphen"/>ness,</hi>" has ſhone upon the world with additional luſ<g ref="char:EOLhyphen"/>tre, mankind in general have "<hi>Loved darkness ra<g ref="char:EOLhyphen"/>ther than light,</hi> and rejected the council of GOD againſt their own ſouls; ſo that—<hi>Who hath believed our report,</hi>" has been the conſtant lamentation of ho<g ref="char:EOLhyphen"/>ly and inſpired men, in every age of the Church.</p>
@@ -217,7 +219,7 @@ that but few more of them will ever more diſgrace the human nature, by appearin
             <p>This however will not be the caſe with thoſe, who while they—"<hi>Search the scriptures;</hi>" attend to the import of our Lord's general comment upon them; to wit.
 "The letter killeth;—<hi>and again,</hi> "The words that I speak unto you they are spirit;"
 by which, he plainly intimated to the Jews, as far as their inveterate prejudices, and contracted ſtate of
-<pb n="8" facs="tcp:037577_0005_100EDEFE550656E8"/>
+<pb n="8" facs="unknown:037577_0005_100EDEFE550656E8"/>
 illumination would admit, that many paſſages in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> "<hi>law and the prophets,</hi>" if taken in the mere LI<g ref="char:EOLunhyphen"/>TERAL ſenſe, proclaimed war and death not only againſt the true principles of ſcience and reaſon<g ref="char:punc">▪</g> but alſo againſt all the glorious and adorable attribute<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -239,7 +241,7 @@ THE WHOLE DUTY OF MAN.</p>
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>y
-<pb n="9" facs="tcp:037577_0005_100EDEFE550656E8"/>
+<pb n="9" facs="unknown:037577_0005_100EDEFE550656E8"/>
 to break out againſt me in the following words: <hi>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -316,7 +318,7 @@ to break out againſt me in the following words: <hi>
                   <desc>•</desc>
                </gap>arrow, or the whipping-poſt.</p>
             <p>
-               <pb n="10" facs="tcp:037577_0006_100EDEF9E17C8280"/>"<hi>LORD, what is man,</hi>"—unenlightened by <gap reason="illegible" resp="#PDCC" extent="1 word">
+               <pb n="10" facs="unknown:037577_0006_100EDEF9E17C8280"/>"<hi>LORD, what is man,</hi>"—unenlightened by <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> heavenly rays of ſpecial revelation?</p>
             <p>The candid and intelligent hiſtorian will not <gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -402,7 +404,7 @@ to break out againſt me in the following words: <hi>
                </gap> ſuggeſt;—but to the haughty Gentiles (apparen<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>
-               <pb facs="tcp:037577_0006_100EDEF9E17C8280"/>
+               <pb facs="unknown:037577_0006_100EDEF9E17C8280"/>
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>everity," in permitting them, while full of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -479,7 +481,7 @@ to break out againſt me in the following words: <hi>
                   <desc>•</desc>
                </gap>ough we may call him the "Son of God;" the Son of Man;" or the "Son of Mary."</p>
             <p>
-               <pb n="12" facs="tcp:037577_0007_100EDEFBF0408618"/>For, as the divine eſſence is indiviſible, either <gap reason="illegible" resp="#PDCC" extent="1 word">
+               <pb n="12" facs="unknown:037577_0007_100EDEFBF0408618"/>For, as the divine eſſence is indiviſible, either <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> the fullneſs of the Godhead dwells bodily in the ſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -518,20 +520,20 @@ to break out againſt me in the following words: <hi>
                   <desc>•</desc>
                </gap> and holy child, or meſiah, ſhould be called, not only the "mighty God," but, THE EVERLASTING FA<g ref="char:EOLunhyphen"/>THER;" and alſo, "the prince of peace," (or com<g ref="char:EOLhyphen"/>forter.) This antient and heaven inſpired prophecy is now at length fullfilled; and the fullfilment is highly deſerving your moſt impartial attention:— "The New Jeruſalem Church," and that church on<g ref="char:EOLhyphen"/>ly, affirms and maintains that Jeſus, or this Holy Child, is indeed the very and "Everlaſting Father" of heaven; and alſo the "Prince of Peace" or "Ho<g ref="char:EOLhyphen"/>ly Ghoſt."</p>
             <p>In the 10th ch. and 30th v. of St. John's Goſpel, our Lord ventured to tell the Jews, that He and the Father were ONE; but the reſult of the declaration of this naked or genuine truth, was, that they took
-<pb n="13" facs="tcp:037577_0007_100EDEFBF0408618"/>
+<pb n="13" facs="unknown:037577_0007_100EDEFBF0408618"/>
 up ſtones to ſtone him; hence we find him replying to them in this ſame Goſpel, "I have yet many things to ſay unto you, but ye cannot bear them now."</p>
             <p>And a few verſes forward he added, "Theſe things have I ſpoken unto you in proverbs: the time cometh, when I ſhall no more ſpeak unto you in pro<g ref="char:EOLhyphen"/>verbs, but I ſhall ſhew you plainly of the father."</p>
             <p>What he was willing then to "ſhew them" reſ<g ref="char:EOLhyphen"/>pecting the "Father," we may learn ſomething of, if we attend to his reply to Phillip when he preſſed him cloſely upon this very ſubject—"Have I been ſo long time with you, and yet haſt thou not known me, Phillip? He that hath ſeen me, hath ſeen the Father? and how ſayeſt thou then, ſhew us the Fa<g ref="char:EOLhyphen"/>ther"; from which it is plain to infer, that if thoſe who ſaw Jeſus Chriſt ſaw the Father; or if by ſeeing Jeſus Chriſt the Father likewiſe was ſeen,—then the Father and Jeſus Chriſt is certainly and indiſputably ONE and the SAME perſon, and no more, agreeably to the grand and diſtinguiſhing doctrine of the New Jeruſalem Church.</p>
             <p>I cannot forbear, (in juſtice to the ſubject) menti<g ref="char:EOLhyphen"/>oning one paſſage more, from the ſacred oracles of truth.</p>
             <p>In the 1ſt. chapt. of theſe heavenly revelations out of which I am furniſhed with the ground of my pre<g ref="char:EOLhyphen"/>ſent lecture, we find our Lord three different times declaring from heaven to the beloved diſciple and apoſtle St. John, that he was the "ALPHA &amp; OMEGA," the "firſt and the laſt," which undoubtedly muſt in<g ref="char:EOLhyphen"/>clude <hi>all persons,</hi> and principles that can poſſibly be conceived in the DEITY: To cite any more ſcripture paſſages then, in proof that Jeſus Chriſt is the Father and Holy Ghoſt, or the "Firſt and the laſt," perſons (as they are called) in the trinity, as well as the ſecond, I judge ſuperfluous.</p>
             <p>It may not be ſuperfluous however, to obſerve here, that it was from a deep and impartial conſideration
-<pb n="14" facs="tcp:037577_0008_100EDF00DA3F3530"/>
+<pb n="14" facs="unknown:037577_0008_100EDF00DA3F3530"/>
 of my preſent ſubject; and the great diſcordance of the leading articles of my former faith, (and of the preſent prevailing faith of the whole chriſtian world) both with ſcripture, and reaſon, that I was led to that important and unpopular ſtep, which I took ſome time ago, in reſigning my official ſtation and member<g ref="char:EOLhyphen"/>ſhip, in the Methodiſt E. Church.</p>
             <p>The firſt and ſecond of theſe articles I would beg leave to lay before you, and briefly remark upon; and, I appeal to the "ſearcher of hearts," that I am not led to this mode of proceeding from the moſt diſtant wiſh to offend any here preſent; or to excite a controverſy with ſuch of my chriſtian brethren, who, in "ſimplicity and godly ſincerity," ſtill ſub<g ref="char:EOLhyphen"/>ſcribe to theſe articles alluded to; but from a hope, that while it may ſerve as a brief and general apology for my own conduct, it may at the ſame time render ſome ſervices to the true intereſt of pure uncorrupt<g ref="char:EOLhyphen"/>ed chriſtianity.</p>
             <p>In the Methodiſt E. Church, (and I believe in the Proteſtant E. Church) the articles of faith reſpecting the Object of our worſhip read as follows:</p>
             <p>"ART. I. There is but One living and true God, everlaſting, without body or parts, of infinite power, wiſdom and goodneſs; the maker and preſerver of all things both viſible and inviſible. And in unity of this godhead there are three perſons, of one ſub<g ref="char:EOLhyphen"/>ſtance, power and eternity; the Father, the Son, and the Holy Ghoſt.</p>
             <p>"ART. II. The Son who is the word of the Father, the very and eternal God, of one ſubſtance with the Father, took man's nature in the womb of the bleſſed virgin; ſo that two whole and perfect natures, that is to ſay, the Godhead and manhood, were joined together in One perſon, never to be divided, whereof is one Chriſt, very god and very man, who truly ſuf<g ref="char:EOLhyphen"/>fered was crucified, dead and buried, to reconcile his
-<pb n="15" facs="tcp:037577_0008_100EDF00DA3F3530"/>
+<pb n="15" facs="unknown:037577_0008_100EDF00DA3F3530"/>
 father to us, and to be a ſacrifice not only for origi<g ref="char:EOLhyphen"/>nal guilt, but alſo for actual ſins of men."</p>
             <p>NOW, the almoſt omnipotent, and almoſt mira<g ref="char:EOLhyphen"/>culous prejudice of education, and nothing leſs, prevents the ſincere chriſtian (as it did myſelf for many years) from perceiving, that though theſe ar<g ref="char:EOLhyphen"/>ticles contain ſome truths, they contain at the ſame time many groſs and palpable errors: in which rea<g ref="char:EOLhyphen"/>ſon and common ſenſe have nothing to do; and by which ſome, if not all, the adorable and eſſential at<g ref="char:EOLhyphen"/>tributes of God, (as before enumerated) are, flatly denied—that I ſay not blaſphemed.</p>
             <p>The power of expreſſing our thoughts to each other by human language, is juſtly acknowledged to be one of the chief felicities, and characteriſtics of man<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -540,7 +542,7 @@ father to us, and to be a ſacrifice not only for origi<g ref="char:EOLhyphen"/>
             <p>Again: In the preceeding part of the Firſt Art. referred to, it is aſſerted that God is a being with<g ref="char:EOLhyphen"/>out "Body or Parts." Why then does the latter part of the ſame article aſſure us, that he is divided into <hi>three</hi> diſtinct parts, or perſons?</p>
             <p>
                <pb n="16"
-                   facs="tcp:037577_0009_100EDF0312EB5A70"
+                   facs="unknown:037577_0009_100EDF0312EB5A70"
                    rendition="simple:additions"/>would aſk, if the Divine being is diviſible, is <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> not material? if he has NO body, how can he be ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -584,18 +586,18 @@ father to us, and to be a ſacrifice not only for origi<g ref="char:EOLhyphen"/>
             <p>But what ſhall we think, or what ſhall we ſay reſ<g ref="char:EOLhyphen"/>pecting the latter part of the 2d. article afore-men<g ref="char:EOLhyphen"/>tioned, where it is plainly avowed, that the "very God" was crucified—died—and was buried! And that, to "reconcile his father," (who is ſaid to be an<g ref="char:EOLhyphen"/>other different perſon) to us!!!</p>
             <p>Here then we have repreſented to us, ONE divine perſon or God, dying—to reconcile another Di<g ref="char:EOLhyphen"/>vine perſon, or God, who certainly is ſuppoſed to be, not only very angry but very mutable alſo.</p>
             <p>
-               <pb n="17" facs="tcp:037577_0009_100EDF0312EB5A70"/>Now to paſs over the doctrine of a God dying and being buried, &amp;c. I would obſerve that the opinion of St, Paul on the ſubject is the very reverſe of this: for he ſays that "God was in Chriſt reconciling the world to himſelf;" which clearly proves, that God was reconciled to all mankind; but that they were not reconciled to him.</p>
+               <pb n="17" facs="unknown:037577_0009_100EDF0312EB5A70"/>Now to paſs over the doctrine of a God dying and being buried, &amp;c. I would obſerve that the opinion of St, Paul on the ſubject is the very reverſe of this: for he ſays that "God was in Chriſt reconciling the world to himſelf;" which clearly proves, that God was reconciled to all mankind; but that they were not reconciled to him.</p>
             <p>Indeed to ſuppoſe that God ever was, or can be angry, and then, anon reconciled, through the in<g ref="char:EOLhyphen"/>treaties of another perſon, different from himſelf, which other perſon alſo is "very and eternal God," is, in my opinion, not only a denial of the unity of God, but has a near affinity to down right blaſphemy againſt his divine love and his divine wiſdom; for it is plain and certain, that his infinite love muſt render him as incapable of wrath or anger towards his own creatures, as his infinite wiſdom renders him incapable of any change, or alteration, in his own divine purpoſes and deſigns.</p>
             <p>The foregoing obſervations on the true OBJECT of Chriſtian worſhip, are, (in my opinion) ſo conclu<g ref="char:EOLhyphen"/>ſive and powerful againſt the modern and prevaling doctrine of a trinity of perſons in the Godhead; that there is no other way left to elude their force; but by plainly declaring, that <hi>reason</hi> has nothing to do in the inveſtigation; and that its voice or dictates are not to be regarded on the ſubject.</p>
             <p>But my beloved and reſpected audience permit me to aſſure you, that it is a hereſy of the greateſt magnitude and replete with the moſt dangerous con<g ref="char:EOLhyphen"/>ſequences to ſuppoſe, or maintain that Reaſon and Revelation, are at variance with each other; for they are both, equally the voice of God,—which muſt be conſiſtent with itſelf, whatever the voice of man may be.</p>
             <p>The Socinian and the Deiſt,—ſhould there be any ſuch here to day, will doubtleſs agree to this laſt ob<g ref="char:EOLhyphen"/>ſervation;
-<pb n="18" facs="tcp:037577_0010_100EDF04A0286C00"/>
+<pb n="18" facs="unknown:037577_0010_100EDF04A0286C00"/>
 but though theſe gentlemen are eaſily con<g ref="char:EOLhyphen"/>vinced of the errors attached to the modern doctrine of the trinity,—they cannot yet ſubſcribe to ours.— The reaſon I preſume is, becauſe OUR peculiar doc<g ref="char:EOLhyphen"/>trine of the DIVINITY of the Lord Jeſus Chriſt has not yet been properly opened and explained to them; —whereby they would clearly perceive, that Our JESUS, and Their GOD are indeed the very ſame.</p>
             <p>For as names cannot alter the nature of things, it is perfectly immaterial (in my opinion) by what name we diſtinguiſh the Object of our worſhip, whe<g ref="char:EOLhyphen"/>ther, (as Pope ſays) "Jehovah, Jove, or Lord;" provided we attach to this One name all the eſſen<g ref="char:EOLhyphen"/>tial and incommunicable attributes of Deity.</p>
             <p>Be it known then, to all whom it may concern, that the members of the Lord's New Church, do not worſhip that natural body which was derived from Mary, and the principles of this world, and which was crucified, &amp;c. Becauſe they do not believe that this body ever was, or ever can be tranſmuted into, or commixed with the Deity. No, this ſpecies of ſuperſtition and idolatry we leave, to thoſe who know no better.</p>
             <p>The material ſuperinduced body; or Son of Ma<g ref="char:EOLhyphen"/>ry, together with whatſoever of infirmity was therein derived, was indeed neceſſary to be aſſumed by the Lord God for purpoſes of redemption, and manifeſ<g ref="char:EOLhyphen"/>tation, to men in this natural world; but this mere Son of Mary, is not the true "Son of God," or ſavi<g ref="char:EOLhyphen"/>or of the world. The Savior which We worſhip, is the Divine Wiſdom, of the Divine Love, who is in<g ref="char:EOLhyphen"/>deed a Mediator, or a medium of acceſs and com<g ref="char:EOLhyphen"/>munication, between the Divine love or inmoſt principle of Deity, and created intelligences.</p>
             <p>Not that we inſinuate, that the Divine Wiſdom, (which we alſo call, "The form of God") can be, or ever was, ſeparated from the Divine love, (which we alſo call the eſſence or inmoſt principle of God;)
-<pb n="19" facs="tcp:037577_0010_100EDF04A0286C00"/>
+<pb n="19" facs="unknown:037577_0010_100EDF04A0286C00"/>
 except by way of manifeſtation: but the Divine love we apprehend, is imperceptible to every created be<g ref="char:EOLhyphen"/>ing, and as unapproachable as a "conſuming fire;" while the Divine Wiſdom is perceptible to every Angel in the heavens, but differently to each, accord<g ref="char:EOLhyphen"/>ing to their individual ſtates of illumination and af<g ref="char:EOLhyphen"/>fection.</p>
             <p>To conclude this head of Doctrine then; we op<g ref="char:EOLhyphen"/>poſe the <hi>modern</hi> doctrine of a trinity of perſons in the Deity; but we do not deny the true <hi>Scripture doc<g ref="char:EOLhyphen"/>trine</hi> of a trinity of Principles in the Deity, even as there is in every individual living man. Thus for inſtance, The Divine Love or inmoſt principle of Je<g ref="char:EOLhyphen"/>hovah correſponds to the Soul of man, and may by way of accommodation, be called the Father. The Divine Wiſdom or manifeſted form, of Deity, cor<g ref="char:EOLhyphen"/>reſponds to the Body of man and may by way of ac<g ref="char:EOLhyphen"/>commodation as aforeſaid be called the SON; and the Divine proceeding power likewiſe, from the Di<g ref="char:EOLhyphen"/>vine Wiſdom of the Divine Love, correſponds to the volitions or actions of man, and may with conſi<g ref="char:EOLhyphen"/>derable propriety be called the Holy Spirit, or Holy Ghoſt:—All, together, conſtituting but One glori<g ref="char:EOLhyphen"/>ous object of chriſtian worſhip,—who is,
 <q>
@@ -606,14 +608,14 @@ except by way of manifeſtation: but the Divine love we apprehend, is impercepti
             <p>Submitting the foregoing remarks on the true Ob<g ref="char:EOLhyphen"/>ject of our worſhip, to your ſerious and impartial conſideration, I ſhall now proceed, to make a few obſervations.</p>
             <p>IIdly. On the true NATURE of Chriſtian Worſhip.</p>
             <p>On this head however I muſt be very brief, that I treſpaſs not on the patience of my attentive and reſpected hearers. And indeed, it appears to me that if the true Object of worſhip be properly com<g ref="char:EOLhyphen"/>prehended, we can be ſubject to no very material
-<pb n="20" facs="tcp:037577_0011_100EDF06D7CC6458"/>
+<pb n="20" facs="unknown:037577_0011_100EDF06D7CC6458"/>
 error in the Nature and mode of the worſhip which we may be inclined to offer unto him.</p>
             <p>This remark cannot fail of being juſtified by all thoſe who have made themſelves acquainted with the Theology of various ages and nations; and their con<g ref="char:EOLhyphen"/>ſequent modes or rites of religious worſhip; for it is certain that the peculiar ideas of mankind, at all times, and in all places, gave a colour or form to their manner of worſhip; ſo that it has been more or leſs rational and ſpiritual in exact proportion to the rationality, or ſpirituality of their ideas reſpect<g ref="char:EOLhyphen"/>ing the Object of worſhip; and <hi>vice versa.</hi>
             </p>
             <p>I would not inſinuate however, from this remark, that the particular mode or manner of our worſhip<g ref="char:EOLhyphen"/>ing God, can juſtify or condemn, ſave or damn any one; for if errors of faith or worſhip originate from prejudice of education, or other unavoidable cir<g ref="char:EOLhyphen"/>cumſtances which are inſeparably connected with certain local ſituations; I doubt whether our perſons would be brought into a ſtate of condemnation, were our worſhip directed to "four-footed beaſts and creeping things;" or even to devils!</p>
             <p>Indeed the apoſtle Paul inform us in the 10th c. and 20th v. of his 1ſt. epiſtle to the Corinthians, that the Heathens or Gentiles did ſacrifice to devils, not intentionally, I preſume, but ignorantly; there<g ref="char:EOLhyphen"/>fore amongſt theſe Gentile worſhipers, a faithful "Centurion." and a juſt "Cornelius," were recog<g ref="char:EOLhyphen"/>nized by a "faithful and juſt Creator;" who far from condemning them for their inevitable errors of faith and worſhip, openly, and highly approved of them both; diſtinguiſhing between, the worſhiper, and the worſhip—the intention, and the act—the head, and the heart.</p>
             <p>Worſhip, then, may be ſaid to conſiſt of two dif<g ref="char:EOLhyphen"/>ferent or diſtinct parts, the one <hi>external,</hi> the other <hi>internal</hi>: The former is the body of worſhip<g ref="char:punc">▪</g> the latter the ſoul. But, as the body without the ſpi<g ref="char:EOLhyphen"/>rit
-<pb n="21" facs="tcp:037577_0011_100EDF06D7CC6458"/>
+<pb n="21" facs="unknown:037577_0011_100EDF06D7CC6458"/>
 (or ſoul) is dead; ſo alſo is external worſhip, when ſeparated from internal; and as both ſoul and body muſt be united to form or conſtitute a living man; ſo alſo external worſhip muſt be united to in<g ref="char:EOLhyphen"/>
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -623,7 +625,7 @@ error in the Nature and mode of the worſhip which we may be inclined to offer u
             <p>In order therefore that our acts of worſhip, may be approved, as well as our perſons, by the Lord Jeſus Chriſt our <hi>Savior</hi> and our <hi>God</hi> we muſt worſhip him not only in Spirit, but in Truth alſo, that is, our wor<g ref="char:EOLhyphen"/>ſhip muſt be not only pious, but rational.</p>
             <p>But this, I humbly preſume is not the caſe, with ſuch as direct their worſhip to an angry, vengeful, changeful, partial BEING; who is ſubject to any diviſion, or ſub-diviſion into different perſons.</p>
             <p>If any perſon therefore, my beloved, (however ſacred, dignified or popular his character may be,) ſhould by word or deed, "entice" you to the wor<g ref="char:EOLhyphen"/>ſhip of ſuch "ſtrange Gods,"—"See thou do it not;"—on the contrary obey the law of GOD, and
-<pb n="22" facs="tcp:037577_0012_100EDF0899A13BC8"/>
+<pb n="22" facs="unknown:037577_0012_100EDF0899A13BC8"/>
 "Stone him." I ſay, "Stone him," not with natu<g ref="char:EOLhyphen"/>ral ſtones, however; but with ſpiritual; with rati<g ref="char:EOLhyphen"/>onal arguments, and truths of doctrine; derived from the principles of ſcience, and the authority of the holy ſcriptures.</p>
             <p>But who can overcome "Goliah of Gath," whoſe ſtature is "ſix cubits and a ſpan?" Who can con<g ref="char:EOLhyphen"/>quer prejudice of education, whoſe enormous growth is of many ages? Oh! ye men of the New Church, "The battle is not yours but the Lords;" therefore be not afraid, for the ſtripling David, (or New Jeru<g ref="char:EOLhyphen"/>ſalem Doctrine) though not yet <hi>crowned,</hi> ſhall, with a few "ſmooth ſtones of the brook;" (or truths of ſcience) ſlay the Goliah of Prejudice, and with his own ſword, (or the <hi>literal</hi> ſenſe of the word,) cut off his head,—while the ſword ſhall be preſerved in the tents of David.</p>
             <p>I muſt now conclude.—My diſcourſe has been ſufficiently tedious;—and like the preſent ſtate of our little Temple, plain and unadorned.</p>
